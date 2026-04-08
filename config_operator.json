@@ -1,0 +1,11 @@
+{
+  "session_dir": "sessions",
+  "accounts": [
+    {
+      "number": 1,
+      "username": "your_instagram_login",
+      "session_file": "sessions/account1.json",
+      "proxy": null
+    }
+  ]
+}
